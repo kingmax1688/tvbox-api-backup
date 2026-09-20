@@ -1,0 +1,22 @@
+# ==================== 多仓核心骨干（大幅扩充资源） ====================
+游魂多仓, https://www.iyouhun.com/tv/dc
+影视仓多仓, https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
+Tomorrow多仓, https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
+欧歌多仓, https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
+
+# ==================== 4K/蓝光专精 ====================
+小盒子4K, http://xhztv.top/4k.json
+手搓4K, https://dogpan.com/f/VOoZsg/2026215jm.json
+七星精选, https://gitlab.com/tvtg/qx/-/raw/main/svip.json
+
+# ==================== 优质单仓（保留多镜像，自动容错） ====================
+更新专用接口, https://0.12yue.de5.net/tvbox/更新专用接口.json
+菠菜pro, https://0.12yue.de5.net/5/x4pro.json
+幸福年年, http://150.158.52.248/tgyg/bbm.json
+
+饭太硬, http://www.饭太硬.net/tv, http://www.饭太硬.art/tv, http://fty.xxooo.cf/tv, http://fty.888484.xyz/tv, http://fty.333232.xyz/tv
+嗷呜, http://www.英格里希嗷呜.top/tv, https://9763.kstore.vip/aowu.json, http://itv666.cc/aowu/config.webp
+潇洒, https://9877.kstore.space/single.json, https://9877.kstore.space/AnotherD/api.json, https://9877.kstore.space/one.json, https://9877.kstore.space/ONE/one.json
+
+王二小, https://9280.kstore.vip/aiwex.json, https://9280.kstore.space/aiwex.json
+南风, https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
